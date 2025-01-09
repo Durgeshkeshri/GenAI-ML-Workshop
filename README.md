@@ -66,6 +66,21 @@
 
 ---
 
+### ChatGPT  
+- **Architecture:** Transformer-based model using multi-head self-attention for language understanding and generation.  
+- **Capabilities:** Performs tasks like text classification, summarization, Q&A, and conversational AI.  
+- **Coding Support:** Context-aware debugging, syntax correction, and logic optimization across multiple languages and frameworks.  
+- **Integrations:** Can execute Python code, generate DALL·E images, and perform web searches through APIs.  
+- **Customization:** Extendable via OpenAI API for domain-specific fine-tuning and integration into software pipelines.  
+
+### Gemini  
+- **Architecture:** Multi-modal AI integrating large language models (LLMs) with vision transformers for image and text comprehension.  
+- **Capabilities:** Combines generative AI with search capabilities, model fine-tuning, and multi-input processing (text, image, structured data).  
+- **Performance:** Optimized for latency and scalability in both cloud and edge environments using TPU accelerators.  
+- **Deployment:** Seamlessly integrates with Google Cloud Platform (GCP) for MLOps pipelines, model hosting, and inferencing.  
+- **Applications:** Supports automation in enterprise workflows, intelligent document processing, and multi-modal AI research.  
+
+
 ## 5. What is Gemini Pro?
 ### Overview of Gemini Pro
 - Introduction to its features and capabilities  
