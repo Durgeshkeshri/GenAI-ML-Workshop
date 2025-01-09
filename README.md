@@ -53,7 +53,12 @@
 ## 4. Prompt Engineering
 ### Understanding and Designing Prompts for Different Tasks
 - How to craft effective prompts for various purposes (coding, text generation, etc.)  
-- Tips for refining queries for better results  
+- Tips for refining queries for better results
+- Give clear and specific instructions
+- Include few-shot examples
+- Add contextual information
+- Add prefixes
+- Let the model complete partial input
 
 ### Prompt Engineering Techniques
 - **Query generation** for information retrieval  
