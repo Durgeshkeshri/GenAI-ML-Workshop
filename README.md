@@ -17,7 +17,17 @@
 ### Types of Generative Models
 - Overview of Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and Transformers  
 - Key differences and how they are applied in Generative AI  
-- Case studies for each model (e.g., image generation with GANs, text generation with Transformers)  
+- Case studies for each model (e.g., image generation with GANs, text generation with Transformers)
+
+### Generative Adversarial Network (GAN)
+A **Generative Adversarial Network (GAN)** is a system with two parts: one creates fake data, and the other tries to tell if it’s real or fake. They compete with each other, helping the system get better at creating realistic data, like images.
+
+### Variational Autoencoder (VAE)
+A **Variational Autoencoder (VAE)** is a system that learns to simplify data into a smaller form and then recreate it. This allows it to generate new, similar data, like creating new images based on patterns it has learned.
+
+### Transformers
+**Transformers** are a type of model that helps computers understand and generate language by focusing on important parts of a sentence, no matter their position. They are great at handling large amounts of text and are used in tasks like translation, summarization, and chatbots.
+ 
 
 ---
 
@@ -85,6 +95,7 @@
 - **Deployment:** Seamlessly integrates with Google Cloud Platform (GCP) for MLOps pipelines, model hosting, and inferencing.  
 - **Applications:** Supports automation in enterprise workflows, intelligent document processing, and multi-modal AI research.  
 
+---
 
 ## 5. What is Gemini Pro?
 ### Overview of Gemini Pro
