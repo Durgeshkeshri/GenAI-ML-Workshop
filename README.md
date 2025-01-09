@@ -41,6 +41,9 @@ A **Variational Autoencoder (VAE)** is a system that learns to simplify data int
 - Chatbots and virtual assistants  
 - Enhancing customer service and support  
 
+### Multi-Modal Concept
+**Multi-Modal** models are designed to process and integrate multiple types of data, such as text, images, and audio. They can generate or understand content from different sources simultaneously, allowing for more complex and accurate outputs in tasks like image captioning or text-to-image generation.
+
 ---
 
 ## 3. Introduction to AI Tools
