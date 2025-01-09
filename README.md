@@ -100,18 +100,18 @@ A **Variational Autoencoder (VAE)** is a system that learns to simplify data int
 
 ---
 
-## 5. What is Gemini Pro?
-### Overview of Gemini Pro
+## 5. What is Gemini AI?
+### Overview of Gemini AI
 - Introduction to its features and capabilities  
-- How Gemini Pro helps with advanced text-based tasks  
+- How Gemini AI helps with advanced text-based tasks  
 
-### Using Gemini Pro for Generative Tasks
+### Using Gemini AI for Generative Tasks
 - Text generation: Blog posts, essays, and articles  
 - Text summarization: Shortening content while preserving meaning  
-- Translation: Using Gemini Pro for multilingual tasks  
-- Personalizing content using Gemini Pro's features  
+- Translation: Using Gemini AI for multilingual tasks  
+- Personalizing content using Gemini AI features  
 
-### Practical Use Cases of Gemini Pro
+### Practical Use Cases of Gemini AI
 - Text generation for different content types (marketing copy, storytelling, code explanations)  
 - Text summarization for research papers, articles, etc.  
 - Case studies and examples of successful Gemini Pro deployments  
