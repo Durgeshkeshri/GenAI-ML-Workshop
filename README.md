@@ -111,7 +111,7 @@
 
 ### Using Hugging Face APIs for Text Summarization
 - Overview of text summarization and its importance  
-- Introduction to the **Facebook CNN/DailyMail BERT model**  
+- Introduction to the **Facebook CNN-BERT model**  
 - Walkthrough of accessing and using this model on Hugging Face  
 
 ### Practical Example Project
