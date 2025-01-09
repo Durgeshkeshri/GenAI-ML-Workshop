@@ -98,8 +98,4 @@
 - Setting up the Hugging Face library in Python  
 - Loading the Facebook CNN BERT model for summarization  
 - Feeding input text and generating summaries  
-- Example input-output for summarization tasks  
-
-### Hands-on Session
-- Running the model on real-world examples (e.g., research papers, long articles, news reports)  
-- Optimizing output using parameters like `max_length` and `min_length`  
+- Example input-output for summarization tasks    
